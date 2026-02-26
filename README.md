@@ -147,6 +147,7 @@ Use Postman to test all routes.
 ## 📤 Submission Links
 
 
-Postman Docs Link:
+Postman Docs Link: https://documenter.getpostman.com/view/50839289/2sBXcGFg1z
 Render Deployment Link: https://node-js-assignment-2-1.onrender.com/products
+
 
